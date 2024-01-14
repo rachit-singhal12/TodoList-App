@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.e878d7c1.js",
+    "static/media/R.jpeg": "/static/media/R.8ebb4125ef5d27fb2dc7.jpeg",
+    "static/media/to-do-list-background.jpg": "/static/media/to-do-list-background.a745a22ca267d5f498bc.jpg",
+    "static/media/OIP.jpeg": "/static/media/OIP.2a2f53b1fb53d554a47b.jpeg",
+    "index.html": "/index.html",
+    "main.e878d7c1.js.map": "/static/js/main.e878d7c1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e878d7c1.js"
+  ]
+}
